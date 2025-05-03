@@ -1,17 +1,17 @@
 This repository contains automated test scripts developed using Selenium WebDriver and TestNG. The focus of this project is to test the login functionality of a web application to ensure its reliability, correctness, and behavior under different input scenarios.
 
-Language: Java
+Language: Java <br>
 	•	Test Framework: TestNG <br>
-	•	Browser Automation: Selenium WebDriver
-	•	Build Tool: Maven
+	•	Browser Automation: Selenium WebDriver <br>
+	•	Build Tool: Maven <br>
 
 
-STRUCTURE
- ├── src/test/java
-│   ├── tests/              # TestNG test classes
-├── testng.xml              # TestNG configuration file
-├── pom.xml                 # Maven configuration
-└── README.md               # Project documentation
+STRUCTURE<br>
+ ├── src/test/java<br>
+│   ├── tests/              # TestNG test classes<br>
+├── testng.xml              # TestNG configuration file<br>
+├── pom.xml                 # Maven configuration<br>
+└── README.md               # Project documentation<br>
 
 
 	Valid login with correct credentials
